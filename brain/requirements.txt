@@ -4,3 +4,4 @@ redis
 langgraph
 langchain-openai
 python-dotenv
+pytrends
